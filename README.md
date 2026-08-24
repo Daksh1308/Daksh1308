@@ -63,3 +63,10 @@ Welcome to my GitHub profile. My projects are organized across dedicated organiz
 | [Crumb](https://github.com/Daksh1308/Crumb) | SMS-powered personal finance tracker (Kotlin/Android) |
 | [Portfolio](https://github.com/Daksh1308/Portfolio) | Personal portfolio website (Next.js, TypeScript, Tailwind) |
 | [video-to-audio](https://github.com/Daksh1308/video-to-audio) | Simple video-to-MP3 converter |
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Daksh1308's GitHub profile" src="dark_mode.svg" />
+</picture>
