@@ -1,6 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Daksh1308's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hello, I'm Daksh 👋
 
-Welcome to my GitHub profile. My projects are organized across dedicated organizations by domain.
+Welcome to my GitHub profile. I work across **AI / ML**, **GenAI / LLM Systems**, **Data Science**, **Computer Vision**, **Cybersecurity**, **Automation & Developer Tools**, and **Supply Chain / Operations Analytics** — with projects organized across dedicated organizations by domain.
 
 ---
 
@@ -31,6 +37,7 @@ Welcome to my GitHub profile. My projects are organized across dedicated organiz
 | Project | Description |
 |---------|-------------|
 | [telco-churn](https://github.com/Daksh1308-Data-Science/telco-churn) | Telco customer churn prediction (Logistic Regression) with FastAPI + Next.js |
+| [Agriculture-Analytics-ML](https://github.com/Daksh1308-Data-Science/Agriculture-Analytics-ML) | Crop yield prediction using weather, soil & management data (XGBoost, LightGBM, SHAP) |
 
 ---
 
@@ -53,6 +60,7 @@ Welcome to my GitHub profile. My projects are organized across dedicated organiz
 | Project | Description |
 |---------|-------------|
 | [WOSO](https://github.com/Daksh1308-Supply-Chain/WOSO) | Warehouse operations simulation using SimPy |
+| [SmartRoute-Optimizer](https://github.com/Daksh1308-Supply-Chain/SmartRoute-Optimizer) | Vehicle routing problem (VRP) solver with interactive web UI (Google OR-Tools, OSRM, Folium) |
 
 ---
 
@@ -64,9 +72,3 @@ Welcome to my GitHub profile. My projects are organized across dedicated organiz
 | [Portfolio](https://github.com/Daksh1308/Portfolio) | Personal portfolio website (Next.js, TypeScript, Tailwind) |
 | [video-to-audio](https://github.com/Daksh1308/video-to-audio) | Simple video-to-MP3 converter |
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Daksh1308's GitHub profile" src="dark_mode.svg" />
-</picture>
