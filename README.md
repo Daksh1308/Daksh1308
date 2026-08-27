@@ -27,6 +27,7 @@ Welcome to my GitHub profile. I work across **AI / ML**, **GenAI / LLM Systems**
 | [polymind](https://github.com/Daksh1308-AI-ML/polymind) | Multi-provider AI query tool (OpenAI, Gemini, Grok, Perplexity) |
 | [RAG-Based-AI-Teaching-Assistant](https://github.com/Daksh1308-AI-ML/RAG-Based-AI-Teaching-Assistant) | RAG-based teaching assistant for educational video Q&A |
 | [WardrobeX](https://github.com/Daksh1308-AI-ML/WardrobeX) | Full-stack AI wardrobe stylist with 3D viz and virtual try-on |
+| [Trishul](https://github.com/Daksh1308-AI-ML/AI-Risk-Manager) | Trishul is a cost-aware AI chargeback defense system that uses XGBoost risk scoring, 4-class fraud detection, and real-time concept-drift monitoring to prevent payment fraud before settlement |
 
 ---
 
